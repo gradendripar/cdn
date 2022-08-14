@@ -23,9 +23,9 @@ eval(function (p, a, c, k, e, d) {
     '|var|link|script|function|param|__BLOG_CONFIG__|css|head|if|document|defObj|url|extJs|app|js|dom|extCss|callback|shift|length|staticMain|c_js|dynamicLoadCss|staticIco|c_extCss|c_css|appendChild|cnblogLoader|staticPath|staticVendor|getElementsByTagName|createElement||c_extJs|type|readyState|staticSrc|staticVer|dynamicLoadJs|text|div|icon|rel|onreadystatechange|href|c_ico|dynamicLoadIco|body|while|window|arguments|ico|callee|staticParam|defStaticIco|defStaticVendor|stylesheet|javascript|defStaticSrc|defStaticVer|return|shortcut|image|缺少必要参数|console|defStaticMain|log|none|append|overflow|id|remove|home|display|hidden|null|loaded|complete|onload|src|else'
     .split('|'), 0, {}))
 window.cnblogLoader({
-    defStaticIco: "https://cdn.jsdelivr.net/gh/gradendripar/PicGo/img/favicon.ico",
-    defStaticVendor: "https://cdn.jsdelivr.net/gh/gradendripar/cdn/js/vendor.js",
-    defStaticMain: "https://cdn.jsdelivr.net/gh/gradendripar/cdn/js/manifest.js",
+    defStaticIco: "https://cdn.staticaly.com/gh/gradendripar/PicGo/master/img/favicon.ico",
+    defStaticVendor: "https://cdn.staticaly.com/gh/gradendripar/cdn/main/js/vendor.js",
+    defStaticMain: "https://cdn.staticaly.com/gh/gradendripar/cdn/main/js/manifest.js",
     defStaticSrc: "https://cjunn.gitee.io/blog_theme_atum/releases/",
     defStaticVer: loaderversion
 })
